@@ -2,12 +2,15 @@
 This project is a web application built using React and a variety of popular libraries and technologies. It combines the power of React with Material UI for a sleek user interface, React-Redux for state management, ReactAvatar-edit for avatar customization, React-Router-Dom for navigation, and more.
 
 # Introduction
+```
 *Resume-builder is a web application where anyone can create resume with ease and choose from different available templates.
 *It has three tabs: 1) Resume Templates (Home Page), 2) My Resume, 3) About us
 *Before downloading we have a preview option to view your resume.
 *You can download resumes to the local hard drive.
+```
 
 # Features:
+```
 *React-Router-Dom: Efficient and dynamic routing for the application.
 *Material UI: A modern and responsive user interface using Material Design components.
 *React-Redux: Centralized state management for easy data sharing and updates.
@@ -18,7 +21,7 @@ This project is a web application built using React and a variety of popular lib
 *Jspdf Converter: Generate PDF files directly from your web application.
 *Redux: Manage and share state globally across your application.
 *Images: Utilize images in various parts of the application for a rich visual experience.
-
+```
 
 # Getting Started with Create React App
 
